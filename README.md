@@ -4,16 +4,14 @@
 
 ### Tecnologias
 
-<br>
-
-  <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="40" alt="nodejs logo"  />
-  <img width="12" />
+  <div>
+  <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="40" alt="nodejs logo"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo"  />
-  
-  <br>
+  </div>
 
+  <br>
+  
   - **Node.js**: Ambiente de execução JavaScript no lado do servidor
   - **TypeScript**: Linguagem de programação que adiciona tipagem estática ao JavaScript 
   - **Express**: Framework para Node.js que facilita a criação de servidores HTTP
